@@ -1,4 +1,4 @@
-# ballboypro-Project_bot_chef_alatoo.04.10.20
+Project_bot_chef
 Telegram bot. This bot can give you the recipes. For example, imagine that you can't decide what to cook. And you choose the function "random dish" and the bot throws you a random dish with a recipe and step-by-step photos.
 
 feedbacks & screenshots
@@ -11,7 +11,4 @@ pip install beautifulsoup4
 pip install requests
 pip install pyTelegramBotAPI
 pip install lxml
-repl.it
-https://repl.it/@ErkinSaidillaev/botchef#main.py
-https://repl.it/@ErkinSaidillaev/botchef#main.py
 
